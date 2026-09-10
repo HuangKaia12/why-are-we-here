@@ -1,5 +1,6 @@
 # why-are-we-here
 
-Digital making focuses on the whole process of creation rather than only finished works. Creators continuously test ideas, make mistakes and adjust designs during iteration. This reflective practice helps us explore what we can imagine and build, instead of simply following fixed templates.
+Digital making focuses on the whole process of creation rather than only finished works. Creators continuously test ideas, make mistakes and adjust designs during iteration. This reflective practice helps us explore what we can imagine and build, instead of simply following fixed templates.Digital making also blurs the boundary between designer and user. In traditional design practice, professionals create products for passive audiences. But digital making invites everyone to modify, remix and rebuild things. It shifts the power of creation from experts to ordinary people. This idea matters because making is not only about physical artefacts. It builds our critical thinking and helps us question technology around our daily life.
 
 ## References
+McKee, A. (2003). *A beginner’s guide to qualitative research*. Sage Publications. https://methods.sagepub.com/book/a-beginner-s-guide-to-qualitative-research
