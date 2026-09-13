@@ -26,10 +26,10 @@ We are here not to defend outdated manual labor, but to master the underlying lo
 
 Beattie, D. (2020, February 26). *The Art of Code* [Video]. YouTube. https://www.youtube.com/watch?v=6avJHaC3C2U
 
-Ihde, D. (1990). *Technology and the Lifeworld: From Garden to Earth*. Indiana University Press. https://iupress.org/9780253205728/technology-and-the-lifeworld/
+Ihde, D. (1990). *Technology and the Lifeworld: From Garden to Earth*. Indiana University Press. https://iupress.org/9780253205605/technology-and-the-lifeworld/
 
-Maeda, J. (1999). *Design by Numbers*. MIT Press. http://mitpressbookstore.mit.edu/780262632447/design-by-numbers/
+Maeda, J. (1999). *Design by Numbers*. MIT Press. https://mitpressbookstore.mit.edu/book/9780262632447
 
 Nake, F. (2012). Construction and intuition: Creativity in early computer art. In *Computers and Creativity* (pp. 61–94). Springer. https://doi.org/10.1007/978-3-642-31727-9_3
 
-Reas, C., & Fry, B. (2007). *Processing: A Programming Handbook for Visual Designers and Artists*. MIT Press. http://mitpressbookstore.mit.edu/780262182621/processing/
+Reas, C., & Fry, B. (2007). *Processing: A Programming Handbook for Visual Designers and Artists*. MIT Press. https://mitpress.mit.edu/9780262182621/processing/
